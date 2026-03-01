@@ -1,4 +1,5 @@
 Retail Sales Performance & Profitability Analysis
+
 📌 Project Overview
 
 This project analyzes a retail sales dataset containing 9,994 records, including detailed information about orders, customers, products, regions, sales, profit, and discounts.
